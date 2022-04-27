@@ -1,8 +1,8 @@
-### Image Processing in Python <br>
+### Digital Image Processing <br>
 <br>
-<ol> <h3> Basic Processing <ol>
+<ol> <h4> Basic Processing <ol>
 <li> Grayscale
-<li> histogram procesing 
+<li> histogram processing 
 <li> thresholding 
 </ol>
 
