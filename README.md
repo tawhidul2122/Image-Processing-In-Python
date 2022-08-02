@@ -1,4 +1,4 @@
-## Digital Image Processing
+## Digital Image Processing Using Python
 
 ## Grayscale Processing
 - [Code](https://github.com/tawhidul2122/Image-Processing-In-Python/blob/master/grayscale.ipynb)
